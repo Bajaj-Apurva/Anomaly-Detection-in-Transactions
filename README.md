@@ -53,16 +53,19 @@ pip install pandas numpy plotly scikit-learn
 
 git clone https://github.com/Bajaj-Apurva/Anomaly-Detection-in-Transactions.git
 
-cd anomaly-detection-in-transactions
+cd Anomaly-Detection-in-Transactions
 
 ## Usage
 The project provides several functionalities:
 
-Data Visualization: Generates visualizations for transaction amounts, distributions, and correlations.
+#### Data Visualization:
+Generates visualizations for transaction amounts, distributions, and correlations.
 
-Anomaly Detection: Identifies anomalies in transaction amounts using statistical methods and the Isolation Forest model.
+#### Anomaly Detection:
+Identifies anomalies in transaction amounts using statistical methods and the Isolation Forest model.
 
-User Interaction: Allows users to input transaction details and check for anomalies.
+#### User Interaction:
+Allows users to input transaction details and check for anomalies.
 
 To interact with the project, run the main script and follow the prompts to input transaction details for anomaly detection.
 
